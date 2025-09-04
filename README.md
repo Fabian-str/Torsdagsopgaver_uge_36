@@ -1,1 +1,3 @@
-# Torsdagsopgaver_uge_36
+# Torsdagsopgaver
+Name: Fabian
+E-mail: cph-fs180@stud.ek.dk
